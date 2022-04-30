@@ -1,3 +1,2 @@
-# node-hlt9n7
-
+Faça a modelagem e definição de um objeto que represente o usuário de um sistema. O sistema é um sistema de blog. O objeto deve ter dados básicos de cadastro do usuário e também deve ter informações relacionadas aos artigos que foram postados pelo usuário e os artigos que ainda estão em processo de escrita. Além disso, o objeto deve conter dados relacionados aos comentários dele no sistema.
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-hlt9n7)
